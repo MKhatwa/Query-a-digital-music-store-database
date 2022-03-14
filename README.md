@@ -1,4 +1,4 @@
-# # Query a digital music store database
+# Query a digital music store database
 Query the Chinook Database using SQLite to understand the media in their store, their customers and employees, and their invoice information.
 
 ## Project Overview
@@ -21,7 +21,7 @@ Note: These questions are not the only questions that can be asked. They are the
 The Chinook Database can be found in the chinook_db folder in this repository.
 
 ## Author
-[Mahmoud Abou Khatwa](https://github.com/MKhatwa)- sole author for this program.
+[Mahmoud Abou Khatwa](https://github.com/MKhatwa)- sole author.
 
 ## Acknowledgements
 
